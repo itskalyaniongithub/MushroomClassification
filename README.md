@@ -1,0 +1,1 @@
+Welcome to the Mushroom Classification project! This project aims to classify mushrooms as edible or poisonous using machine learning techniques. The dataset used is derived from the Kaggle Mushroom Dataset, which contains various attributes of different mushroom species.
